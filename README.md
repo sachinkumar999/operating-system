@@ -1,3 +1,4 @@
 # operating-system
-# porject name 
+
+# project name 
 A tool that will detect potential deadlock in the system process
